@@ -1,2 +1,2 @@
 #!/bin/bash
-r/my_first_directory/betty
+git rm betty
