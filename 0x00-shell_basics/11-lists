@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -al /boot[D[D[D[D[D.. / /boot
+ls -a ../.. boot -l
